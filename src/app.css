@@ -1,0 +1,24 @@
+:root {
+  background-color: #2e3440;
+  color: #eceff4;
+}
+
+html, body {
+  font-family: system-ui, Arial, Helvetica, sans-serif;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+#root {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  height: 100%;
+  justify-content: center;
+  margin: 0 auto;
+  max-width: 1280px;
+  width: 100%;
+}
